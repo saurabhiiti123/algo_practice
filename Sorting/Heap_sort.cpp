@@ -44,7 +44,7 @@ void heapSort(int arr[], int n)
     }
 }
  
-/* A utility function to print array of size n */
+// A utility function to print array of size n
 void printArray(int arr[], int n)
 {
     for (int i=0; i<n; ++i)
